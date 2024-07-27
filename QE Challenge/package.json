@@ -1,5 +1,13 @@
 {
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "cypress:open": "cypress open",
+    "test": "npm start & cypress run"
   }
 }

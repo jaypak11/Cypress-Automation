@@ -1,0 +1,5 @@
+import './1-empty_board.cy.js'
+import './2-first_move.cy.js'
+import './3-alternating_turns.cy.js'
+import './4-declare_winner.cy.js'
+import './5-mark_persistence.cy.js'
