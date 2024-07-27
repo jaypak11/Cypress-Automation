@@ -1,2 +1,1 @@
-# QE-Public
-Review Wave Quality Engineering Public Repository.
+# Cypress Tests a for Tic Tac Toe game
